@@ -22,6 +22,6 @@
 	<!-- <script type="text/javascript" src="assets/config/variable.js"></script> -->
 <link rel="stylesheet" href="styles.35ce54471097c9499759.css"></head>
 
-<body kt-root><script src="runtime.1060d4b256947506d598.js"></script><script src="polyfills-es5.cd7eb68a8edf29acaa51.js" nomodule></script><script src="polyfills.33079eadf3aae52dfdfa.js"></script><script src="main.4bd3d804e6d8569809fa.js"></script></body>
+<body kt-root><script src="runtime.5397cd59bbc2590a50f4.js"></script><script src="polyfills-es5.cd7eb68a8edf29acaa51.js" nomodule></script><script src="polyfills.33079eadf3aae52dfdfa.js"></script><script src="main.e44db77a13e3c0bbe530.js"></script></body>
 
 </html>
